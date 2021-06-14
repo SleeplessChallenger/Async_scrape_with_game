@@ -14,7 +14,7 @@ and all of this stuff get dumped into `.csv` file, example of which you can see 
 (simply typing integer in CLI), otherwise default number is used.
 
 <hr>
-**Process**:
+<h4>Process:</h4>
   User will be presented with a quote and if the input of the user is correct (<ins><i>case insensitive</i></ins>),
   then the game will suggest another round. If the answer isn't correct, then the user will have
   particular amount of hints, based on the level of difficulty. Regardless of the result, game will
