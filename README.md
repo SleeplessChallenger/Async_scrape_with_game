@@ -22,6 +22,7 @@ and all of this stuff get dumped into `.csv` file, example of which you can see 
 <hr>
 
 <h3>Different versions</h3>
+
 1. Files without a folder are the **main version** where I used `AsyncIO`, `aiohttp` to elevate the speed. `scraped_data`
   is a folder with example of scraped data.
   
